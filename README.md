@@ -18,6 +18,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<a href="https://www.kaggle.com/jukijuki">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+
 
 [![](https://raw.githubusercontent.com/ju-ki/ju-ki/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
