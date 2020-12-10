@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/ju-ki/ju-ki/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+[![](https://raw.githubusercontent.com/ju-ki/ju-ki/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ju-ki/ju-ki/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ju-ki/ju-ki/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![](https://komarev.com/ghpvc/?username=ju-ki&color=green)
