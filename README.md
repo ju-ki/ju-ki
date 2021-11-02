@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m student who major in psycology.
 - 🌱 I’m currently learning ...machine learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -32,5 +32,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> 
 
 [![](https://raw.githubusercontent.com/ju-ki/ju-ki/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-ki)](https://github.com/ju-ki/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju-ki&layout=compact)](https://github.com/ju-ki/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ju-ki)](https://github.com/ju-ki/github-profile-trophy)
+
+
 
 
