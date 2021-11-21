@@ -12,7 +12,7 @@
 - 📫 How to reach me **juki.programming@gmail.com**
 
 
-- My kaggle data↓
+- My kaggle information↓
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jukijuki/competition/light" />
