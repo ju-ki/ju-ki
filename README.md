@@ -11,6 +11,17 @@
 
 - 📫 How to reach me **juki.programming@gmail.com**
 
+
+- My kaggle data↓
+
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jukijuki/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jukijuki/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jukijuki/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jukijuki/discussion/light" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juki_dsandgm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juki_dsandgm" height="30" width="40" /></a>
